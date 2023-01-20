@@ -13,8 +13,9 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Nessus Essentials</b>
+  - [Vulnerabiltiy Management Lab](https://github.com/jandy100/Package-Delivery-Pathfinding-Algorithm)
+  - Scanning and Remediation
 
 <!--
 **jandy100/jandy100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
